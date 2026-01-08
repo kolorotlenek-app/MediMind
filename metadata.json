@@ -1,0 +1,5 @@
+{
+  "name": "Kreator Harmonogramu Terapii",
+  "description": "Zaawansowany generator harmonogramu przyjmowania leków z systemem przypomnień dźwiękowych i powiadomień. Umożliwia planowanie terapii do 25 dni i więcej, z dostosowywalnymi interwałami.",
+  "requestFramePermissions": []
+}
